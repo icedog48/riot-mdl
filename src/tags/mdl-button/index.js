@@ -1,0 +1,1 @@
+require('./mdl-button.tag');

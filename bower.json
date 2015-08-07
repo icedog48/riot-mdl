@@ -1,0 +1,20 @@
+{
+  "name": "riot-mdl",
+  "main": "riot-mdl.js",
+  "version": "0.0.1",
+  "authors": [
+    "Icedog48"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "material-design-lite": "~1.0.2",
+    "riot": "~2.2.3"
+  }
+}
